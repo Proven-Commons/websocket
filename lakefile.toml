@@ -1,0 +1,10 @@
+name = "websocket"
+version = "0.1.0"
+defaultTargets = ["WebSocket", "websocket"]
+
+[[lean_lib]]
+name = "WebSocket"
+
+[[lean_exe]]
+name = "websocket"
+root = "Main"
