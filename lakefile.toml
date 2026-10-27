@@ -1,5 +1,6 @@
 name = "websocket"
 version = "0.1.0"
+license = "Apache-2.0"
 defaultTargets = ["WebSocket", "websocket"]
 
 [[lean_lib]]
